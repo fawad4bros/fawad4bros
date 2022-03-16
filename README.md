@@ -1,13 +1,13 @@
 <!-- Hi There section -->
 <div>
-<h1 align="center">Hi there, I'm <a href="https://fawad4bros.github.io/"  target="_blank">Fawad Naeem</a> 👋</h1>
+<h3S align="center">Hi there, I'm <a href="https://fawad4bros.github.io/"  target="_blank">Fawad Naeem</a> 👋</h3>
 <p align="center">
   <img width="250" height="300" src="./assets/hiThere.gif">
 </p>
 </div>
 <!-- What do I do most of my time? -->
 <div>
-<h1 align="center">What do I do most of my time?</h1>
+<h3 align="center">What do I do most of my time?</h3>
 <p align="center">
   <img width="460" height="300" src="./assets/coding.gif">
 </p>
