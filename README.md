@@ -1,6 +1,6 @@
 <!-- Hi There section -->
 <div>
-<h3S align="center">Hi there, I'm <a href="https://fawad4bros.github.io/"  target="_blank">Fawad Naeem</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://fawad4bros.github.io/"  target="_blank">Fawad Naeem</a> 👋</h3>
 <p align="center">
   <img width="250" height="300" src="./assets/hiThere.gif">
 </p>
