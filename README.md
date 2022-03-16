@@ -2,7 +2,7 @@
 <div>
 <h1 align="center">Hi there, I'm <a href="https://fawad4bros.github.io/"  target="_blank">Fawad Naeem</a> 👋</h1>
 <p align="center">
-  <img width="460" height="300" src="./assets/hiThere.gif">
+  <img width="250" height="300" src="./assets/hiThere.gif">
 </p>
 </div>
 <!-- What do I do most of my time? -->
@@ -37,10 +37,8 @@
     </table>
 </div>
 <!-- connect -->
-<div align="center">
 <h3>Connect</h3>
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fawad4bros/)
-  </div>
 <p align="center">
   <img width="460" height="300" src="./assets/gettingWorkDone.gif">
 </p>
