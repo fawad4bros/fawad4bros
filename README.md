@@ -24,16 +24,12 @@
 <!-- stats -->
 <h3>Github Stats: </h3>
 <br>
-    <table>
-        <tr>
-            <td padding="0px" border="0px">
+
                 <img alt="status" src="https://github-readme-stats.vercel.app/api?username=fawad4bros&count_private=true&custom_title=Stats&show_icons=true&theme=tokyonight" align="right" />
-            </td>
-            <td padding="0px" border="0px">
+
+
                 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fawad4bros&langs_count=8&custom_title=Languages&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
-            </td>
-        </tr>
-    </table>
+
 <!-- connect -->
 <h3>Connect</h3>
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fawad4bros/)
