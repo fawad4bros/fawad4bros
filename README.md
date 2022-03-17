@@ -22,13 +22,12 @@
 </p>
 </div>
 <!-- stats -->
-<h3>Github Stats: </h3>
+<h3 align="center">Github Stats: </h3>
 <br>
-
-<img alt="status" src="https://github-readme-stats.vercel.app/api?username=fawad4bros&count_private=true&custom_title=Stats&show_icons=true&theme=tokyonight" align="center" />
-<br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fawad4bros&langs_count=8&custom_title=Languages&layout=compact&theme=tokyonight&include_all_commits=true" height="196px" align="center">
-
+<div align="center" display="inline-block">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawad4bros&count_private=true&custom_title=Stats&show_icons=true&theme=tokyonight" />
+<img  align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fawad4bros&langs_count=8&custom_title=Languages&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
+</div>
 <!-- connect -->
 <h3>Connect</h3>
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fawad4bros/)
