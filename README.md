@@ -25,9 +25,9 @@
 <h3>Github Stats: </h3>
 <br>
 
-<img alt="status" src="https://github-readme-stats.vercel.app/api?username=fawad4bros&count_private=true&custom_title=Stats&show_icons=true&theme=tokyonight" align="right" />
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fawad4bros&langs_count=8&custom_title=Languages&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
+<img alt="status" src="https://github-readme-stats.vercel.app/api?username=fawad4bros&count_private=true&custom_title=Stats&show_icons=true&theme=tokyonight" align="center" />
+<br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fawad4bros&langs_count=8&custom_title=Languages&layout=compact&theme=tokyonight&include_all_commits=true" height="196px" align="center">
 
 <!-- connect -->
 <h3>Connect</h3>
